@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AdonisAPI
 First API
 =======
@@ -30,4 +29,3 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
->>>>>>> Initial commit
